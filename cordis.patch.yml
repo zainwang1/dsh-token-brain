@@ -1,0 +1,4 @@
+- insert:
+    - id: token-brain
+      name: dsh-token-brain
+      config: {}
